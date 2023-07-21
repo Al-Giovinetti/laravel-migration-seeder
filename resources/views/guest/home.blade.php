@@ -3,6 +3,7 @@
 @section("title","Home")
 
 @section("main")
-<p> Parte centrale </p>
+
+<p>contenuto</p>
 
 @endsection
