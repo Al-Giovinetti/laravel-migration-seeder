@@ -4,8 +4,7 @@ body{
     background-color: orangered;
 }
 
-table{
-    tr{
-        height: 40px;
-    }
+.table > :not(caption) > * > * {
+    padding: 0.5rem 0;
+
 }
